@@ -5,7 +5,13 @@
 // Hoera!
 // Hoera!
 // ==========================================
+const hoera = ["Hoera!"];
 
+for (let i = 0; i < 3; i++) {
+    console.log(hoera[i]);
+}
+
+               // Ik kom er niet uit hoe dit 3x hoera moet worden.
 
 
 // ==========================================
