@@ -26,6 +26,13 @@ for (let i = 0; i < names.length; i++){
 // ==========================================
 
 const numbers = [2, 4, 5, 29, 38];
+if (numbers / 2 == 0){
+    console.log (numbers * 2);
+}
+
+else (numbers * 3)
+    console.log;
+
 
 // Verwachtte uitkomsten:
 // Vóór het script zie je de originele waardes:
